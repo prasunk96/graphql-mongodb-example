@@ -1,7 +1,7 @@
 {
   "name": "graphql-mongodb-example",
   "version": "0.1.0",
-  "description": "",
+  "description": "All the important code is in `src/start.js`.",
   "main": "dist/index.js",
   "scripts": {
     "startdev": "nodemon --exec babel-node src/index.js",
@@ -27,5 +27,13 @@
     "graphql-tools": "^0.8.3",
     "mongodb": "^2.2.15",
     "nodemon": "^1.18.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasunk96/graphql-mongodb-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prasunk96/graphql-mongodb-example/issues"
+  },
+  "homepage": "https://github.com/prasunk96/graphql-mongodb-example#readme"
 }
